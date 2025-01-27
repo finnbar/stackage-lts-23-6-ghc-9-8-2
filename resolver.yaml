@@ -12769,4 +12769,4 @@ packages:
     size: 6285
 publish-time: 2025-01-27T14:51:10.411847468Z
 resolver:
-  compiler: ghc-9.8.4
+  compiler: ghc-9.8.2
